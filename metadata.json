@@ -1,0 +1,8 @@
+{
+  "name": "kolotrini - Coach Salle de Sport & Nutrition",
+  "description": "Coach intelligent pour la salle de sport : entraînement du jour (haut/bas/full body), guide de sécurité et posture des exercices, cardio par machine et suivi nutritionnel personnalisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
